@@ -1,5 +1,6 @@
 # HandyNotes_SummerFestival
 HandyNotes - Summer Festival (Backport for WotLK 3.3.5)
+
 This is a backport of the original HandyNotes SummerFestival plugin.
 It has been completely rewritten and optimized to work properly with Wrath of the Lich King 3.3.5 private servers.
 
