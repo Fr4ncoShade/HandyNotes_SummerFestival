@@ -11,4 +11,4 @@ You can customize the addon via the HandyNotes options menu:
 - Icon size (scale)  
 - Icon transparency (alpha)  
 - Show all icons, even if you have already visited the bonfire  
-![Текст описания](https://ibb.co/b597QNBT)
+![](https://i.ibb.co/XxRVjFs1/HSF.jpg)
