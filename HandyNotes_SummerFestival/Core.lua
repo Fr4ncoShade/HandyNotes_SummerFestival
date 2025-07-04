@@ -51,200 +51,200 @@ local HSF_Data = {
 
 	--Northrend
 	["CrystalsongForest"] = {
-		[HandyNotes:getCoord(0.78, 0.75)] = "FlameKeeper:Flame Warden of Northrend::13491",  -- TODO: add vGuild for showing additional info in the tooltip
-		[HandyNotes:getCoord(0.80, 0.53)] = "Extinguishing:Extinguishing Northrend::13457",  -- TODO: use AceLocale to localize all user-facing labels
+		[HandyNotes:getCoord(0.7898, 0.7532)] = "FlameKeeper:Flame Warden of Northrend::13491",  -- TODO: add vGuild for showing additional info in the tooltip
+		[HandyNotes:getCoord(0.7964, 0.5359)] = "Extinguishing:Extinguishing Northrend::13457",  -- TODO: use AceLocale to localize all user-facing labels
 	},
 	["TheStormPeaks"] = {
-		[HandyNotes:getCoord(0.41, 0.87)] = "FlameKeeper:Flame Warden of Northrend::13490",
-		[HandyNotes:getCoord(0.40, 0.85)] = "Extinguishing:Extinguishing Northrend::13455",
+		[HandyNotes:getCoord(0.4142, 0.8704)] = "FlameKeeper:Flame Warden of Northrend::13490",
+		[HandyNotes:getCoord(0.4025, 0.8554)] = "Extinguishing:Extinguishing Northrend::13455",
 	},
 	["ZulDrak"] = {
-		[HandyNotes:getCoord(0.40, 0.61)] = "FlameKeeper:Flame Warden of Northrend::13492",
-		[HandyNotes:getCoord(0.43, 0.71)] = "Extinguishing:Extinguishing Northrend::13458",
+		[HandyNotes:getCoord(0.4047, 0.6170)] = "FlameKeeper:Flame Warden of Northrend::13492",
+		[HandyNotes:getCoord(0.4326, 0.7131)] = "Extinguishing:Extinguishing Northrend::13458",
 	},
 	["GrizzlyHills"] = {
-		[HandyNotes:getCoord(0.34, 0.60)] = "FlameKeeper:Flame Warden of Northrend::13489",
-		[HandyNotes:getCoord(0.19, 0.61)] = "Extinguishing:Extinguishing Northrend::13454",
+		[HandyNotes:getCoord(0.3379, 0.6023)] = "FlameKeeper:Flame Warden of Northrend::13489",
+		[HandyNotes:getCoord(0.1951, 0.6135)] = "Extinguishing:Extinguishing Northrend::13454",
 	},
 	["HowlingFjord"] = {
-		[HandyNotes:getCoord(0.58, 0.16)] = "FlameKeeper:Flame Warden of Northrend::13488",
-		[HandyNotes:getCoord(0.48, 0.13)] = "Extinguishing:Extinguishing Northrend::13453",
+		[HandyNotes:getCoord(0.5799, 0.1619)] = "FlameKeeper:Flame Warden of Northrend::13488",
+		[HandyNotes:getCoord(0.4847, 0.1336)] = "Extinguishing:Extinguishing Northrend::13453",
 	},
 	["Dragonblight"] = {
-		[HandyNotes:getCoord(0.75, 0.43)] = "FlameKeeper:Flame Warden of Northrend::13487",
-		[HandyNotes:getCoord(0.38, 0.48)] = "Extinguishing:Extinguishing Northrend::13451",
+		[HandyNotes:getCoord(0.7534, 0.4378)] = "FlameKeeper:Flame Warden of Northrend::13487",
+		[HandyNotes:getCoord(0.3861, 0.4822)] = "Extinguishing:Extinguishing Northrend::13451",
 	},
 	["BoreanTundra"] = {
-		[HandyNotes:getCoord(0.55, 0.20)] = "FlameKeeper:Flame Warden of Northrend::13485",
-		[HandyNotes:getCoord(0.51, 0.11)] = "Extinguishing:Extinguishing Northrend::13441",
+		[HandyNotes:getCoord(0.5507, 0.2003)] = "FlameKeeper:Flame Warden of Northrend::13485",
+		[HandyNotes:getCoord(0.5109, 0.1193)] = "Extinguishing:Extinguishing Northrend::13441",
 	},
 	["SholazarBasin"] = {
-		[HandyNotes:getCoord(0.48, 0.66)] = "FlameKeeper:Flame Warden of Northrend::13486",
-		[HandyNotes:getCoord(0.47, 0.61)] = "Extinguishing:Extinguishing Northrend::13450",
+		[HandyNotes:getCoord(0.4809, 0.6636)] = "FlameKeeper:Flame Warden of Northrend::13486",
+		[HandyNotes:getCoord(0.4730, 0.6132)] = "Extinguishing:Extinguishing Northrend::13450",
 	},
 	--Outland 
 	["Hellfire"] = {
-		[HandyNotes:getCoord(0.62, 0.58)] = "FlameKeeper:Flame Warden of Outland::11818",
-		[HandyNotes:getCoord(0.57, 0.42)] = "Extinguishing:Extinguishing Outland::11775",
+		[HandyNotes:getCoord(0.6206, 0.5792)] = "FlameKeeper:Flame Warden of Outland::11818",
+		[HandyNotes:getCoord(0.5721, 0.4186)] = "Extinguishing:Extinguishing Outland::11775",
 	},
 	["Zangarmarsh"] = {
-		[HandyNotes:getCoord(0.69, 0.52)] = "FlameKeeper:Flame Warden of Outland::11829",
-		[HandyNotes:getCoord(0.36, 0.52)] = "Extinguishing:Extinguishing Outland::11787",
+		[HandyNotes:getCoord(0.6906, 0.5188)] = "FlameKeeper:Flame Warden of Outland::11829",
+		[HandyNotes:getCoord(0.3557, 0.5180)] = "Extinguishing:Extinguishing Outland::11787",
 	},
 	["TerokkarForest"] = {
-		[HandyNotes:getCoord(0.54, 0.55)] = "FlameKeeper:Flame Warden of Outland::11825",
-		[HandyNotes:getCoord(0.52, 0.43)] = "Extinguishing:Extinguishing Outland::11782",
+		[HandyNotes:getCoord(0.5411, 0.5556)] = "FlameKeeper:Flame Warden of Outland::11825",
+		[HandyNotes:getCoord(0.5195, 0.4315)] = "Extinguishing:Extinguishing Outland::11782",
 	},
 	["ShadowmoonValley"] = {
-		[HandyNotes:getCoord(0.40, 0.55)] = "FlameKeeper:Flame Warden of Outland::11823",
-		[HandyNotes:getCoord(0.34, 0.30)] = "Extinguishing:Extinguishing Outland::11779",
+		[HandyNotes:getCoord(0.3966, 0.5469)] = "FlameKeeper:Flame Warden of Outland::11823",
+		[HandyNotes:getCoord(0.3364, 0.3033)] = "Extinguishing:Extinguishing Outland::11779",
 	},
 	["Nagrand"] = {
-		[HandyNotes:getCoord(0.50, 0.69)] = "FlameKeeper:Flame Warden of Outland::11821",
-		[HandyNotes:getCoord(0.51, 0.34)] = "Extinguishing:Extinguishing Outland::11778",
+		[HandyNotes:getCoord(0.4969, 0.6942)] = "FlameKeeper:Flame Warden of Outland::11821",
+		[HandyNotes:getCoord(0.5106, 0.3398)] = "Extinguishing:Extinguishing Outland::11778",
 	},
 	["BladesEdgeMountains"] = {
-		[HandyNotes:getCoord(0.41, 0.66)] = "FlameKeeper:Flame Warden of Outland::11807",
-		[HandyNotes:getCoord(0.50, 0.59)] = "Extinguishing:Extinguishing Outland::11767",
+		[HandyNotes:getCoord(0.4137, 0.6593)] = "FlameKeeper:Flame Warden of Outland::11807",
+		[HandyNotes:getCoord(0.4996, 0.5881)] = "Extinguishing:Extinguishing Outland::11767",
 	},
 	["Netherstorm"] = {
-		[HandyNotes:getCoord(0.31, 0.63)] = "FlameKeeper:Flame Warden of Outland::11830",
-		[HandyNotes:getCoord(0.32, 0.68)] = "Extinguishing:Extinguishing Outland::11799",
+		[HandyNotes:getCoord(0.3119, 0.6266)] = "FlameKeeper:Flame Warden of Outland::11830",
+		[HandyNotes:getCoord(0.3213, 0.6819)] = "Extinguishing:Extinguishing Outland::11799",
 	},
 	--Kalimdor
 	["Ashenvale"] = {
-		[HandyNotes:getCoord(0.38, 0.55)] = "FlameKeeper:Flame Warden of Kalimdor::11805",
-		[HandyNotes:getCoord(0.70, 0.69)] = "Extinguishing:Extinguishing Kalimdor::11765",
+		[HandyNotes:getCoord(0.3778, 0.5473)] = "FlameKeeper:Flame Warden of Kalimdor::11805",
+		[HandyNotes:getCoord(0.7002, 0.6916)] = "Extinguishing:Extinguishing Kalimdor::11765",
 	},
 	["AzuremystIsle"] = {
-		[HandyNotes:getCoord(0.44, 0.52)] = "FlameKeeper:Flame Warden of Kalimdor::11806",
+		[HandyNotes:getCoord(0.4445, 0.5242)] = "FlameKeeper:Flame Warden of Kalimdor::11806",
 	},
 	["BloodmystIsle"] = {
-		[HandyNotes:getCoord(0.56, 0.68)] = "FlameKeeper:Flame Warden of Kalimdor::11809",
+		[HandyNotes:getCoord(0.5565, 0.6805)] = "FlameKeeper:Flame Warden of Kalimdor::11809",
 	},
 	["Darkshore"] = {
-		[HandyNotes:getCoord(0.37, 0.46)] = "FlameKeeper:Flame Warden of Kalimdor::11811",
+		[HandyNotes:getCoord(0.3696, 0.4617)] = "FlameKeeper:Flame Warden of Kalimdor::11811",
 	},
 	["Desolace"] = {
-		[HandyNotes:getCoord(0.66, 0.17)] = "FlameKeeper:Flame Warden of Kalimdor::11812",
-		[HandyNotes:getCoord(0.26, 0.77)] = "Extinguishing:Extinguishing Kalimdor::11769",
+		[HandyNotes:getCoord(0.6612, 0.1710)] = "FlameKeeper:Flame Warden of Kalimdor::11812",
+		[HandyNotes:getCoord(0.2617, 0.7720)] = "Extinguishing:Extinguishing Kalimdor::11769",
 	},
 	["Dustwallow"] = {
-		[HandyNotes:getCoord(0.62, 0.40)] = "FlameKeeper:Flame Warden of Kalimdor::11815",
-		[HandyNotes:getCoord(0.33, 0.31)] = "Extinguishing:Extinguishing Kalimdor::11771",
+		[HandyNotes:getCoord(0.6182, 0.4046)] = "FlameKeeper:Flame Warden of Kalimdor::11815",
+		[HandyNotes:getCoord(0.3329, 0.3076)] = "Extinguishing:Extinguishing Kalimdor::11771",
 	},
 	["Feralas"] = {
-		[HandyNotes:getCoord(0.28, 0.44)] = "FlameKeeper:Flame Warden of Kalimdor::11817",
-		[HandyNotes:getCoord(0.72, 0.48)] = "Extinguishing:Extinguishing Kalimdor::11773",
+		[HandyNotes:getCoord(0.2843, 0.4401)] = "FlameKeeper:Flame Warden of Kalimdor::11817",
+		[HandyNotes:getCoord(0.7244, 0.4761)] = "Extinguishing:Extinguishing Kalimdor::11773",
 	},
 	["Silithus"] = {
-		[HandyNotes:getCoord(0.57, 0.35)] = "FlameKeeper:Flame Warden of Kalimdor::11831",
-		[HandyNotes:getCoord(0.46, 0.45)] = "Extinguishing:Extinguishing Kalimdor::11800",
+		[HandyNotes:getCoord(0.5748, 0.3524)] = "FlameKeeper:Flame Warden of Kalimdor::11831",
+		[HandyNotes:getCoord(0.4646, 0.4491)] = "Extinguishing:Extinguishing Kalimdor::11800",
 	},
 	["Tanaris"] = {
-		[HandyNotes:getCoord(0.53, 0.29)] = "FlameKeeper:Flame Warden of Kalimdor::11833",
-		[HandyNotes:getCoord(0.50, 0.27)] = "Extinguishing:Extinguishing Kalimdor::11802",
+		[HandyNotes:getCoord(0.5276, 0.2937)] = "FlameKeeper:Flame Warden of Kalimdor::11833",
+		[HandyNotes:getCoord(0.4983, 0.2712)] = "Extinguishing:Extinguishing Kalimdor::11802",
 	},
 	["Teldrassil"] = {
-		[HandyNotes:getCoord(0.55, 0.60)] = "FlameKeeper:Flame Warden of Kalimdor::11824",
+		[HandyNotes:getCoord(0.5506, 0.6041)] = "FlameKeeper:Flame Warden of Kalimdor::11824",
 	},
 	["Winterspring"] = {
-		[HandyNotes:getCoord(0.63, 0.35)] = "FlameKeeper:Flame Warden of Kalimdor::11834",
-		[HandyNotes:getCoord(0.60, 0.35)] = "Extinguishing:Extinguishing Kalimdor::11803",
+		[HandyNotes:getCoord(0.6255, 0.3542)] = "FlameKeeper:Flame Warden of Kalimdor::11834",
+		[HandyNotes:getCoord(0.5983, 0.3544)] = "Extinguishing:Extinguishing Kalimdor::11803",
 	},
 	["Durotar"] = {
-		[HandyNotes:getCoord(0.52, 0.47)] = "Extinguishing:Extinguishing Kalimdor::11770",
+		[HandyNotes:getCoord(0.5203, 0.4718)] = "Extinguishing:Extinguishing Kalimdor::11770",
 	},
 	["Mulgore"] = {
-		[HandyNotes:getCoord(0.52, 0.60)] = "Extinguishing:Extinguishing Kalimdor::11777",
+		[HandyNotes:getCoord(0.5202, 0.6005)] = "Extinguishing:Extinguishing Kalimdor::11777",
 	},
 	["StonetalonMountains"] = {
-		[HandyNotes:getCoord(0.51, 0.60)] = "Extinguishing:Extinguishing Kalimdor::11780",
+		[HandyNotes:getCoord(0.5055, 0.6029)] = "Extinguishing:Extinguishing Kalimdor::11780",
 	},
 	["Barrens"] = {
-		[HandyNotes:getCoord(0.52, 0.28)] = "Extinguishing:Extinguishing Kalimdor::11783",
+		[HandyNotes:getCoord(0.5216, 0.2791)] = "Extinguishing:Extinguishing Kalimdor::11783",
 	},
 	["ThousandNeedles"] = {
-		[HandyNotes:getCoord(0.42, 0.53)] = "Extinguishing:Extinguishing Kalimdor::11785",
+		[HandyNotes:getCoord(0.4242, 0.5277)] = "Extinguishing:Extinguishing Kalimdor::11785",
 	},
 	--Eastern Kingdoms
 	["Arathi"] = {
-		[HandyNotes:getCoord(0.50, 0.44)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11804",
-		[HandyNotes:getCoord(0.74, 0.41)] = "Extinguishing:Extinguishing Eastern Kingdoms::11764",
+		[HandyNotes:getCoord(0.5003, 0.4482)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11804",
+		[HandyNotes:getCoord(0.7401, 0.4172)] = "Extinguishing:Extinguishing Eastern Kingdoms::11764",
 	},
 	["BlastedLands"] = {
-		[HandyNotes:getCoord(0.59, 0.17)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11808",
+		[HandyNotes:getCoord(0.5929, 0.1701)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11808",
 	},
 	["BurningSteppes"] = {
-		[HandyNotes:getCoord(0.81, 0.63)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11810",
-		[HandyNotes:getCoord(0.62, 0.29)] = "Extinguishing:Extinguishing Eastern Kingdoms::11768",
+		[HandyNotes:getCoord(0.8054, 0.6267)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11810",
+		[HandyNotes:getCoord(0.6213, 0.2896)] = "Extinguishing:Extinguishing Eastern Kingdoms::11768",
 	},
 	["DunMorogh"] = {
-		[HandyNotes:getCoord(0.47, 0.47)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11813",
+		[HandyNotes:getCoord(0.4669, 0.4695)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11813",
 	},
 	["Duskwood"] = {
-		[HandyNotes:getCoord(0.73, 0.54)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11814",
+		[HandyNotes:getCoord(0.7369, 0.5460)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11814",
 	},
 	["Elwynn"] = {
-		[HandyNotes:getCoord(0.43, 0.63)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11816",  
+		[HandyNotes:getCoord(0.4347, 0.6263)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11816",  
 	},
 	["Hilsbrad"] = {
-		[HandyNotes:getCoord(0.50, 0.47)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11819",
-		[HandyNotes:getCoord(0.58, 0.25)] = "Extinguishing:Extinguishing Eastern Kingdoms::11776",
+		[HandyNotes:getCoord(0.5044, 0.4759)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11819",
+		[HandyNotes:getCoord(0.5841, 0.2509)] = "Extinguishing:Extinguishing Eastern Kingdoms::11776",
 	},
 	["LochModan"] = {
-		[HandyNotes:getCoord(0.33, 0.41)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11820",
+		[HandyNotes:getCoord(0.3255, 0.4095)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11820",
 	},
 	["Redridge"] = {
-		[HandyNotes:getCoord(0.26, 0.60)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11822",
+		[HandyNotes:getCoord(0.2524, 0.5898)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11822",
 	},
 	["Stranglethorn"] = {
-		[HandyNotes:getCoord(0.34, 0.74)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11832",
-		[HandyNotes:getCoord(0.33, 0.75)] = "Extinguishing:Extinguishing Eastern Kingdoms::11801",
+		[HandyNotes:getCoord(0.3390, 0.7354)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11832",
+		[HandyNotes:getCoord(0.3299, 0.7540)] = "Extinguishing:Extinguishing Eastern Kingdoms::11801",
 	},
 	["Hinterlands"] = {
-		[HandyNotes:getCoord(0.14, 0.50)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11826",
-		[HandyNotes:getCoord(0.77, 0.75)] = "Extinguishing:Extinguishing Eastern Kingdoms::11784",
+		[HandyNotes:getCoord(0.1434, 0.5008)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11826",
+		[HandyNotes:getCoord(0.7669, 0.7458)] = "Extinguishing:Extinguishing Eastern Kingdoms::11784",
 	},
 	["Wetlands"] = {
-		[HandyNotes:getCoord(0.13, 0.47)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11828",
+		[HandyNotes:getCoord(0.1346, 0.4706)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11828",
 	},
 	["WesternPlaguelands"] = {
-		[HandyNotes:getCoord(0.43, 0.82)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11827",
+		[HandyNotes:getCoord(0.4347, 0.8226)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11827",
 	},
 	["Westfall"] = {
-		[HandyNotes:getCoord(0.56, 0.53)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11583",
+		[HandyNotes:getCoord(0.5593, 0.5347)] = "FlameKeeper:Flame Warden of Eastern Kingdoms::11583",
 	},
 	["Badlands"] = {
-		[HandyNotes:getCoord(0.05, 0.49)] = "Extinguishing:Extinguishing Eastern Kingdoms::11766",
+		[HandyNotes:getCoord(0.0489, 0.4914)] = "Extinguishing:Extinguishing Eastern Kingdoms::11766",
 	},
 	["EversongWoods"] = {
-		[HandyNotes:getCoord(0.46, 0.50)] = "Extinguishing:Extinguishing Eastern Kingdoms::11772",
+		[HandyNotes:getCoord(0.4638, 0.5040)] = "Extinguishing:Extinguishing Eastern Kingdoms::11772",
 	},
 	["Ghostlands"] = {
-		[HandyNotes:getCoord(0.47, 0.26)] = "Extinguishing:Extinguishing Eastern Kingdoms::11774",
+		[HandyNotes:getCoord(0.4705, 0.2603)] = "Extinguishing:Extinguishing Eastern Kingdoms::11774",
 	},
 	["Silverpine"] = {
-		[HandyNotes:getCoord(0.50, 0.38)] = "Extinguishing:Extinguishing Eastern Kingdoms::11580",
+		[HandyNotes:getCoord(0.4962, 0.3858)] = "Extinguishing:Extinguishing Eastern Kingdoms::11580",
 	},
 	["SwampOfSorrows"] = {
-		[HandyNotes:getCoord(0.47, 0.47)] = "Extinguishing:Extinguishing Eastern Kingdoms::11781",
+		[HandyNotes:getCoord(0.4685, 0.4647)] = "Extinguishing:Extinguishing Eastern Kingdoms::11781",
 	},
 	["Tirisfal"] = {
-		[HandyNotes:getCoord(0.57, 0.52)] = "Extinguishing:Extinguishing Eastern Kingdoms::11786",
+		[HandyNotes:getCoord(0.5704, 0.5172)] = "Extinguishing:Extinguishing Eastern Kingdoms::11786",
 	},
 	--A Thief's Reward
 	["SilvermoonCity"] = {
-		[HandyNotes:getCoord(0.69, 0.43)] = "Thief:A Thief's Reward::11935",
+		[HandyNotes:getCoord(0.6921, 0.4305)] = "Thief:A Thief's Reward::11935",
 	},
 	["Undercity"] = {
-		[HandyNotes:getCoord(0.68, 0.08)] = "Thief:A Thief's Reward::9326",
+		[HandyNotes:getCoord(0.6822, 0.0862)] = "Thief:A Thief's Reward::9326",
 	},
 	["ThunderBluff"] = {
-		[HandyNotes:getCoord(0.21, 0.25)] = "Thief:A Thief's Reward::9325",
+		[HandyNotes:getCoord(0.2146, 0.2691)] = "Thief:A Thief's Reward::9325",
 	},
 	["Ogrimmar"] = {
-		[HandyNotes:getCoord(0.46, 0.38)] = "Thief:A Thief's Reward::9324",
+		[HandyNotes:getCoord(0.4689, 0.3871)] = "Thief:A Thief's Reward::9324",
 	},
 	
 }

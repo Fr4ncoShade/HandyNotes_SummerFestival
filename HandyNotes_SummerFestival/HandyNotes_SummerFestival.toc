@@ -3,7 +3,7 @@
 ## Notes: Marks the locations of Midsummer Fire Festival bonfires on the worldmap and minimap.
 ## Notes-ruRU: Добавляет на карту расположения костров Огненного солнцеворота.
 ## Author: Bianconeri
-## Version: 1.0.1
+## Version: 1.0.2
 ## X-Category: Map & Minimap
 ## SavedVariables: HandyNotes_SummerFestivalDB
 ## Dependencies: HandyNotes
