@@ -339,12 +339,15 @@ HSF_Dropdown.displayMode = "MENU"
 HSF_Dropdown.initialize = generateMenu
 
 function HSFHandler:OnClick(button, down, mapFile, coord)
-	if button == "RightButton" and not down then
-		clickedNoteZone = mapFile
-		clickedNote = coord
-		ToggleDropDownMenu(1, nil, HSF_Dropdown, self, 0, 0)
+	if TomTom or Cartographer_Waypoints then
+		if button == "RightButton" and not down then
+			clickedNoteZone = mapFile
+			clickedNote = coord
+			ToggleDropDownMenu(1, nil, HSF_Dropdown, self, 0, 0)
+		end
 	end
 end
+
 --[[
 function HSFHandler:OnEnter(mapFile, coord)
 	local tooltip = self:GetParent() == WorldMapButton and WorldMapTooltip or GameTooltip
